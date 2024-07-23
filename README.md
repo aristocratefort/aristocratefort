@@ -42,14 +42,17 @@ Here are some ideas to get you started:
     </a>
 </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aristocratefort&show_icons=true&locale=en&layout=compact" alt="aristocratefort" />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=aristocratefort&" alt="aristocratefort" />
+</p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aristocratefort&show_icons=true&locale=en&layout=compact" alt="aristocratefort" /></p>
-
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=aristocratefort&" alt="aristocratefort" /></p>
+<br>
+<br>
+<br>
 
 <p align="center">
   <a href="https://github.com/aristocratefort"><img alt="Mickaël CANOUIL GitHub statistic card using 'github-readme-stats' app by anuraghazra", src="https://github-readme-stats.vercel.app/api?username=aristocratefort&theme=github_dark_dimmed&show_icons=true&count_private=true" /></a>
     
   <a href="https://examregistration.github.com/certification/GHF"><img src="https://images.credly.com/size/680x680/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="GitHub Foundations badge image. Certification. Foundational level. Issued by GitHub" width="200" height="200" /></a>
 </p>
+

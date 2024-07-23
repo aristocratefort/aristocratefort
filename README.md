@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aristocratefort&show_icons=true&locale=en&layout=compact" alt="aristocratefort" />
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=aristocratefort&" alt="aristocratefort" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aristocratefort&" alt="aristocratefort" />
 </p>
 
 \ 

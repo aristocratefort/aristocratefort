@@ -1,82 +1,22 @@
 <style>
-    body {
-      margin: 0;
-      font-family: 'Arial', sans-serif;
-      background-color: #f7f7f7;
-      color: #333;
-    }
-
-    .profile-container {
-      max-width: 1200px;
-      margin: 0 auto;
-      padding: 20px;
-    }
-
-    .navbar {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      background-color: #000;
-      padding: 15px 30px;
-      border-radius: 10px;
-    }
-
-    .navbar ul {
-      list-style: none;
-      display: flex;
-      gap: 15px;
-    }
-
-    .navbar li a {
-      text-decoration: none;
-      color: white;
-      font-weight: bold;
-      cursor: pointer;
-    }
-
-    .active {
-      text-decoration: darkgrey;
-    }
-
-    .section {
-      display: none;
-      margin-top: 40px;
-      background-color: white;
-      padding: 30px;
-      border-radius: 15px;
-      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    }
-
-    .section.active {
-      display: block;
-    }
-
-    .tags {
-      margin-top: 20px;
-    }
-
-    .tags img {
-      margin-right: 10px;
-      vertical-align: middle;
-    }
-
-    .profile-photo {
-      text-align: center;
-      margin-top: 20px;
-    }
-
-    .profile-photo img {
-      width: 200px;
-      height: 200px;
-      border-radius: 50%;
-      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-    }
+body {margin: 0; font-family: 'Arial', sans-serif;  background-color: #f7f7f7;  color: #333;}
+.profile-container { max-width: 1200px;  margin: 0 auto;  padding: 20px; }
+.navbar { display: flex;  justify-content: space-between;  align-items: center;  background-color: #000; padding: 15px 30px; border-radius: 10px; }
+.navbar ul {list-style: none; display: flex; gap: 15px;}
+.navbar li a { text-decoration: none; color: white; font-weight: bold; cursor: pointer;}
+.active { text-decoration: darkgrey;}
+.section { display: none; margin-top: 40px;  background-color: white; padding: 30px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); }
+.section.active {display: block; }
+.tags {margin-top: 20px; }
+.tags img {margin-right: 10px; vertical-align: middle;}
+.profile-photo { text-align: center; margin-top: 20px; }
+.profile-photo img { width: 200px; height: 200px; border-radius: 50%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);}
   </style>
 </head>
 <body>
 <div class="profile-container">
-    <header>
-      <nav class="navbar">
+<header>
+    <nav class="navbar"> 
         <ul>
           <li><a data-section="about" class="nav-link active">À propos</a></li>
           <li><a data-section="experience" class="nav-link">Expériences</a></li>

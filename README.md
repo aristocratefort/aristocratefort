@@ -11,24 +11,24 @@ body {margin: 0; font-family: 'Arial', sans-serif;  background-color: #f7f7f7;  
 .tags img {margin-right: 10px; vertical-align: middle;}
 .profile-photo { text-align: center; margin-top: 20px; }
 .profile-photo img { width: 200px; height: 200px; border-radius: 50%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);}
-  </style>
+</style>
 </head>
 <body>
 <div class="profile-container">
 <header>
-    <nav class="navbar"> 
-        <ul>
-          <li><a data-section="about" class="nav-link active">À propos</a></li>
-          <li><a data-section="experience" class="nav-link">Expériences</a></li>
-          <li><a data-section="projects" class="nav-link">Projets</a></li>
-        </ul>
-      </nav>
-    </header>
+<nav class="navbar"> 
+<ul>
+<li><a data-section="about" class="nav-link active">À propos</a></li>
+<li><a data-section="experience" class="nav-link">Expériences</a></li>
+<li><a data-section="projects" class="nav-link">Projets</a></li>
+</ul>
+</nav>
+</header>
 
 <section id="about" class="section active">
-      <div class="profile-photo">
-        <img src="https://avatars.githubusercontent.com/u/127413639?s=400&u=fdfeaf957b1588b6ec9f6a862af74581873a6336&v=4" alt="Toto's Photo">
-      </div>
+<div class="profile-photo">
+<img src="https://avatars.githubusercontent.com/u/127413639?s=400&u=fdfeaf957b1588b6ec9f6a862af74581873a6336&v=4" alt="Toto's Photo">
+</div>
 <h1>À propos</h1>
 <p>Je suis biostatisticien passionné par l’analyse des données. En termes de langages, je maîtrise R, Python, JavaScript, CSS, et HTML. J’ai une solide expérience dans la mise en œuvre de modèles statistiques, notamment les modèles univariés, multivariés, combinatoires, ainsi que le machine learning, la détection d’anomalies, le deep learning et d’autres techniques pour l’analyse avancée des données.
 </p>
@@ -69,21 +69,20 @@ body {margin: 0; font-family: 'Arial', sans-serif;  background-color: #f7f7f7;  
 </div>
 
 <script>
-    const navLinks = document.querySelectorAll('.nav-link');
-    const sections = document.querySelectorAll('.section');
+const navLinks = document.querySelectorAll('.nav-link');
+const sections = document.querySelectorAll('.section');
 
-    navLinks.forEach(link => {
-      link.addEventListener('click', () => {
-        // Retirer la classe active de tous les liens et sections
-        navLinks.forEach(link => link.classList.remove('active'));
-        sections.forEach(section => section.classList.remove('active'));
+navLinks.forEach(link => {
+link.addEventListener('click', () => {
+// Retirer la classe active de tous les liens et sections
+navLinks.forEach(link => link.classList.remove('active'));
+sections.forEach(section => section.classList.remove('active'));
 
-        // Ajouter la classe active au lien et à la section correspondants
-        link.classList.add('active');
-        const targetSection = document.getElementById(link.dataset.section);
-        targetSection.classList.add('active');
-      });
-    });
+// Ajouter la classe active au lien et à la section correspondants
+link.classList.add('active');
+const targetSection = document.getElementById(link.dataset.section);
+targetSection.classList.add('active');
+});
+});
 </script>
 </body>
-</html>

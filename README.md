@@ -41,14 +41,6 @@
 </p>
 </div>
 
-<div>
-<p>
-<a href="https://github.com/aristocratefort">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aristocratefort&" alt="aristocratefort" />
-</a>
-</p>
-</div>
-
 <h2>Contribution</h2>
 <p>
 <a href="https://github.com/aristocratefort">

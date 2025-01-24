@@ -3,7 +3,6 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Profil LinkedIn</title>
 </head>
 <body style="margin: 0; font-family: 'Arial', sans-serif; background-color: #f7f7f7; color: #333;">
 <main class="profile-container" style="max-width: 1200px; margin: 20px auto; padding: 20px;">

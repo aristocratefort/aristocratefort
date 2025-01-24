@@ -35,16 +35,24 @@
 </div>
 
 <h2>Most used Languages</h2>
+<div>
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aristocratefort&show_icons=true&locale=en&layout=compact" alt="aristocratefort" />
 </p>
-<br>
+</div>
+
+<div>
 <p>
+<a href="https://github.com/aristocratefort">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aristocratefort&" alt="aristocratefort" />
+</a>
+</p>
+</div>
+
 <h2>Contribution</h2>
 <p>
 <a href="https://github.com/aristocratefort">
-<img src="https://github-readme-stats.vercel.app/api?username=aristocratefort&theme=github_dark_dimmed&show_icons=true&count_private=true" alt="Mickaël CANOUIL GitHub statistic card" style="width: 100%; max-width: 600px;" />
+<img src="https://github-readme-stats.vercel.app/api?username=aristocratefort&theme=github_dark_dimmed&show_icons=true&count_private=true" alt="Mickaël CANOUIL GitHub statistic card" style="width: 50%; max-width: 600px;" />
 </a>
 </p>
 <p>

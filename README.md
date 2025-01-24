@@ -36,17 +36,13 @@
 <h2>Most used Languages</h2>
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aristocratefort&show_icons=true&locale=en&layout=compact" alt="aristocratefort" />
-  <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=aristocratefort&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-<img src="https://github-readme-stats.vercel.app/api?username=aristocratefort&show_icons=true" />
+<picture>
+<source
+srcset="https://github-readme-stats.vercel.app/api?username=aristocratefort&show_icons=true&theme=dark"
+media="(prefers-color-scheme: dark)"
+/>
 </picture>
 </p>
-<br>
-<br>
-<br>
 <br>
 <p>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=aristocratefort&theme=dark" alt="GitHub Streak" /></a></p>

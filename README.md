@@ -65,7 +65,7 @@
 <footer style="margin-top: 40px; padding: 20px; background-color: #000; border-radius: 10px; color: white; text-align: center;">
 <h3>Connect with me:</h3>
 <a href="https://fr.linkedin.com/in/kodjo-david-seglo-86716316a" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeremy-simegni" style="height: 30px; width: 40px;" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kodjo-david-SEGLO" style="height: 30px; width: 40px;" />
 </a>
 </footer>
 </main>

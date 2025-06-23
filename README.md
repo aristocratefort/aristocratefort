@@ -50,10 +50,7 @@
 </p>
 <p>
 <a href="https://examregistration.github.com/certification/GHF">
-<img src="https://images.credly.com/size/680x680/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="GitHub Foundations badge image" style="width: 200px; height: 200px;" />
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aristocratefort&hide_progress=true)
-  
+<img src="https://images.credly.com/size/680x680/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="GitHub Foundations badge image" style="width: 200px; height: 200px;" />  
 </a>
 </p>
 </section>

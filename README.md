@@ -82,7 +82,7 @@ and dissemination of scientific results.
   <img src="https://github-readme-stats.vercel.app/api?username=aristocratefort&theme=github_dark_dimmed&show_icons=true&count_private=true" style="width: 60%; max-width: 600px;" /> 
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aristocratefort&layout=compact&theme=github_dark_dimmed)](https://github.com/aristocratefort)
+[![aristocratefort's GitHub stats](https://github-readme-stats.vercel.app/api?username=aristocratefort)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h2>Certification</h2>

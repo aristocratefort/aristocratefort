@@ -75,7 +75,7 @@ and dissemination of scientific results.
 </p>
 
 <h2>Most Used Languages</h2>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=aristocratefort&layout=compact&locale=en" alt="Top Languages" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aristocratefort&show_icons=true&locale=en&layout=compact" alt="aristocratefort" />
 
 <h2>GitHub Activity</h2>
 <a href="https://github.com/aristocratefort">

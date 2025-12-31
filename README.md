@@ -74,15 +74,16 @@ which I leverage to build efficient tools for data visualization, reproducible r
 and dissemination of scientific results.
 </p>
 
-<h2 align="center">Most Used Languages</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aristocratefort&layout=compact&locale=en" />
-</p>
+<h2>Most Used Languages</h2> 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aristocratefort&show_icons=true&locale=en&layout=compact" alt="aristocratefort" /> 
 
-<h2 align="center">GitHub Activity</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aristocratefort&theme=github_dark_dimmed&show_icons=true&count_private=true" />
-</p>
+<h2>GitHub Activity</h2> 
+<a href="https://github.com/aristocratefort"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=aristocratefort&theme=github_dark_dimmed&show_icons=true&count_private=true" style="width: 60%; max-width: 600px;" /> 
+</a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aristocratefort&layout=compact&theme=github_dark_dimmed)](https://github.com/aristocratefort)
+
 
 <h2>Certification</h2>
 <a href="https://examregistration.github.com/certification/GHF">

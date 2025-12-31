@@ -42,7 +42,6 @@ In addition to data science, I have a strong interest in **scientific programmin
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=aristocratefort&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most Used Languages" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aristocratefort&theme=radical&show_icons=true&count_private=true" alt="GitHub Stats" />
 </div>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aristocratefort&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ---
 

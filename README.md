@@ -8,7 +8,7 @@
 
 <body style="margin: 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', sans-serif; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); background-attachment: fixed; color: #1f2937; line-height: 1.6; min-height: 100vh; padding: 20px;">
 
-<main style="max-width: 1200px; margin: 0 auto; padding: 20px;">
+<!-- <main style="max-width: 1200px; margin: 0 auto; padding: 20px;"> -->
 <!-- Header -->
 <header style="text-align: center; margin-bottom: 40px; padding: 40px 20px; background-color: white; border-radius: 15px; box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1);">
 <h1 style="font-size: 2.5rem; color: #2563eb; margin-bottom: 10px; font-weight: 700;">Kodjo David Seglo</h1>
@@ -167,7 +167,7 @@ style="margin-top: 50px; padding: 30px; background: linear-gradient(135deg, #1f2
 </a>
 </footer>
 
-    </main>
+    <!-- </main> -->
 </body>
 
 </html>

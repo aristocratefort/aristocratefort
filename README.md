@@ -155,17 +155,18 @@ onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 10px 1
 </section>
 
 <!-- Footer -->
-<footer
-style="margin-top: 50px; padding: 30px; background: linear-gradient(135deg, #1f2937 0%, #111827 100%); border-radius: 15px; color: white; text-align: center; box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1);">
-<h3 style="margin-bottom: 20px; font-size: 1.5rem; color: white; font-weight: 600;"> Connect with me</h3>
-<a href="https://fr.linkedin.com/in/kodjo-david-seglo-86716316a" target="_blank" 
-  style="display: inline-block; transition: transform 0.3s ease; margin: 0 10px;"
-  onmouseover="this.style.transform='scale(1.2) rotate(5deg)'"
-  onmouseout="this.style.transform='scale(1) rotate(0deg)'" aria-label="LinkedIn"> 
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-    alt="LinkedIn" style="height: 40px; width: 40px; filter: brightness(0) invert(1);" />
+<footer style="margin-top: 50px; padding: 30px; background: linear-gradient(135deg, #1f2937 0%, #111827 100%); border-radius: 15px; color: white; text-align: center; box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1);">
+<h3 style="margin-bottom: 20px; font-size: 1.5rem; color: white; font-weight: 600;">💼 Connect with me</h3>
+<a href="https://fr.linkedin.com/in/kodjo-david-seglo-86716316a" target="_blank"
+style="display: inline-block; transition: transform 0.3s ease; margin: 0 10px;"
+onmouseover="this.style.transform='scale(1.2) rotate(5deg)'"
+onmouseout="this.style.transform='scale(1) rotate(0deg)'" aria-label="LinkedIn">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+alt="LinkedIn" style="height: 40px; width: 40px; filter: brightness(0) invert(1);" />
 </a>
 </footer>
+
+
 </main>
 </body>
 </html>

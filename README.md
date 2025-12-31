@@ -3,74 +3,103 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>GitHub Profile – Biostatistician & Health Data Scientist</title>
 </head>
-<body style="margin: 0; font-family: 'Arial', sans-serif; background-color: #f7f7f7; color: #333;">
-<main class="profile-container" style="max-width: 1200px; margin: 20px auto; padding: 20px;">
-<section id="about" style="margin-top: 40px; background-color: white; padding: 30px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+
+<body style="margin: 0; font-family: Arial, sans-serif; background-color: #f7f7f7; color: #333;">
+
+<main style="max-width: 1200px; margin: 20px auto; padding: 20px;">
+
+<!-- ======================= -->
+<!-- 🇫🇷 SECTION FRANÇAISE -->
+<!-- ======================= -->
+<section style="background-color: white; padding: 30px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 <h1>À propos</h1>
-<p>Je suis biostatisticien passionné par l’analyse des données. En termes de langages, je maîtrise R, Python, JavaScript, CSS, et HTML. J’ai une solide expérience dans la mise en œuvre de modèles statistiques, notamment les modèles univariés, multivariés, combinatoires, ainsi que le machine learning, la détection d’anomalies, le deep learning et d’autres techniques pour l’analyse avancée des données.</p>
-<p>En plus de ma carrière en biostatistiques, je suis passionné par la programmation web, un domaine dans lequel je m’investis activement pour créer des solutions élégantes et performantes.</p>
-<div class="tags" style="margin-top: 20px;">
-<h2>Languages and Tools</h2>
-<div style="display: flex; gap: 10px; align-items: center;">
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" style="width: 40px; height: 40px; vertical-align: middle;" />
-</a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" style="width: 40px; height: 40px; vertical-align: middle;" />
-</a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" style="width: 40px; height: 40px; vertical-align: middle;" />
-</a>
-<a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png" alt="r" style="width: 40px; height: 40px; vertical-align: middle;" />
-</a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" style="width: 40px; height: 40px; vertical-align: middle;" />
-</a>
-<a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="jupyter" style="width: 40px; height: 40px; vertical-align: middle;" />
-</a>
-</div>
-</div>
 
-<h2>Most used Languages</h2>
-<div>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aristocratefort&show_icons=true&locale=en&layout=compact" alt="aristocratefort" />
-</div>
-
-<h2>Contribution</h2>
 <p>
+Je suis <strong>Biostatisticien & Health Data Scientist</strong>, spécialisé dans l’analyse de données
+biomédicales, cliniques et de santé publique. Mon travail consiste à exploiter des données complexes
+et à haute dimension afin d’identifier des <strong>biomarqueurs</strong>, modéliser des pathologies
+et soutenir la prise de décision en recherche et en médecine translationnelle.
+</p>
+
+<p>
+Je possède une solide expérience en <strong>R et Python</strong> pour la préparation des données,
+l’analyse exploratoire, la modélisation statistique (modèles univariés, multivariés, analyses de survie),
+ainsi que le <strong>machine learning</strong>, incluant la détection d’anomalies et la gestion de
+<strong>données déséquilibrées</strong>. Je développe également des modèles de type
+<strong>perceptrons simples et multicouches</strong> pour des problématiques prédictives.
+</p>
+
+<p>
+En parallèle, je m’intéresse à la <strong>programmation scientifique et au développement web</strong>,
+que j’utilise comme leviers pour la visualisation des données, l’automatisation des analyses
+et la valorisation des résultats scientifiques.
+</p>
+
+<h2>Langages & Outils</h2>
+<div style="display: flex; gap: 12px; align-items: center; flex-wrap: wrap;">
+<a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
+<a href="https://www.r-project.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png" width="40"/></a>
+<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
+<a href="https://jupyter.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width="40"/></a>
+</div>
+</section>
+
+<br>
+
+<!-- ======================= -->
+<!-- 🇬🇧 ENGLISH SECTION -->
+<!-- ======================= -->
+<section style="background-color: white; padding: 30px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+<h1>About Me</h1>
+
+<p>
+I am a <strong>Biostatistician & Health Data Scientist</strong> with a strong background in
+biomedical, clinical, and public health data analysis. My work focuses on extracting meaningful
+and actionable insights from <strong>complex and high-dimensional datasets</strong>,
+particularly in biomarker discovery and translational medicine.
+</p>
+
+<p>
+I have hands-on experience using <strong>R and Python</strong> for data preprocessing,
+exploratory data analysis, statistical modeling (univariate, multivariate, survival analysis),
+as well as <strong>machine learning</strong> approaches, including anomaly detection and
+methods tailored for <strong>imbalanced data</strong>. I also develop predictive models
+based on <strong>single-layer and multi-layer perceptrons</strong>.
+</p>
+
+<p>
+In addition to data science, I have a strong interest in <strong>scientific programming and web development</strong>,
+which I leverage to build efficient tools for data visualization, reproducible research,
+and dissemination of scientific results.
+</p>
+
+<h2>Most Used Languages</h2>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=aristocratefort&layout=compact&locale=en" alt="Top Languages" />
+
+<h2>GitHub Activity</h2>
 <a href="https://github.com/aristocratefort">
-<img src="https://github-readme-stats.vercel.app/api?username=aristocratefort&theme=github_dark_dimmed&show_icons=true&count_private=true" alt="Mickaël CANOUIL GitHub statistic card" style="width: 50%; max-width: 600px;" />
+<img src="https://github-readme-stats.vercel.app/api?username=aristocratefort&theme=github_dark_dimmed&show_icons=true&count_private=true" style="width: 60%; max-width: 600px;" />
 </a>
-</p>
-<p>
+
+<h2>Certification</h2>
 <a href="https://examregistration.github.com/certification/GHF">
-<img src="https://images.credly.com/size/680x680/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="GitHub Foundations badge image" style="width: 200px; height: 200px;" />  
+<img src="https://images.credly.com/size/680x680/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="GitHub Foundations Badge" style="width: 180px;" />
 </a>
-</p>
 </section>
 
-<section id="experience" style="margin-top: 40px; background-color: white; padding: 30px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); display: none;">
-<h2>Mes expériences</h2>
-<p>Voici un aperçu de mes expériences professionnelles et académiques, incluant des projets en biostatistiques et en développement web.</p>
-</section>
-
-<section id="projects" style="margin-top: 40px; background-color: white; padding: 30px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); display: none;">
-<h2>Projets réalisés</h2>
-<p>Cette section contiendra une liste de projets que je compléterai prochainement. Restez à l’écoute !</p>
-</section>
-
+<!-- FOOTER -->
 <footer style="margin-top: 40px; padding: 20px; background-color: #000; border-radius: 10px; color: white; text-align: center;">
-<h3>Connect with me:</h3>
-<a href="https://fr.linkedin.com/in/kodjo-david-seglo-86716316a" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kodjo-david-SEGLO" style="height: 30px; width: 40px;" />
+<h3>Connect with me</h3>
+<a href="https://fr.linkedin.com/in/kodjo-david-seglo-86716316a" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" style="height: 30px; width: 40px;" />
 </a>
 </footer>
+
 </main>
 </body>
 </html>

@@ -1,18 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>GitHub Profile – Biostatistician & Health Data Scientist</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 
 <body style="margin: 0; font-family: Arial, sans-serif; background-color: #f7f7f7; color: #333;">
 
 <main style="max-width: 1200px; margin: 20px auto; padding: 20px;">
 
-<!-- ======================= -->
-<!-- 🇫🇷 SECTION FRANÇAISE -->
-<!-- ======================= -->
 <section style="background-color: white; padding: 30px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 <h1>À propos</h1>
 

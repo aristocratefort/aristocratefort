@@ -32,7 +32,7 @@ In addition to data science, I have a strong interest in **scientific programmin
 <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git" /></a>
 <a href="https://www.r-project.org/" target="_blank"><img src="https://www.r-project.org/Rlogo.png" width="40" height="40" alt="R" /></a>
 <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" /></a>
-<a href="https://jupyter.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width="40" height="40" alt="Jupyter" /></a>
+<a href="https://jupyter.org/" target="_blank"><img src="https://jupyter.org/assets/homepage/main-logo.svg" width="40" height="40" alt="Jupyter" /></a>
 
 ---
 
